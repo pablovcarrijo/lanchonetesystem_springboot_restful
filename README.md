@@ -698,7 +698,7 @@ Implementação futura de autenticação e autorização com Spring Security.
 
 ## Autor
 
-Desenvolvido por **Pablo Carrijo**.
+Desenvolvido por **Pablo Vinicius Carrijo**.
 
 Projeto criado com foco em evolução técnica em backend Java/Spring Boot, prática de arquitetura em camadas, regras de negócio e construção de portfólio no GitHub.
 
